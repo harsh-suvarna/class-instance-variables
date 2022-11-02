@@ -1,0 +1,12 @@
+class truck
+wheel =6 //class variable
+def__init__(self)
+self.company=Bbenz {
+                      //instance variables
+self.speed=40kmh   }
+T1=truck()
+T2=truck()
+T1.company=leyland
+Truck.wheels=10
+print(T1.company,T1.speed,T1.wheel)
+print(T2.company,T2.speed,T2.wheel)
